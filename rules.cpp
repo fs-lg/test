@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+//change in git hub 
 int maxSize=10;
 int role;
 int row1=0;
